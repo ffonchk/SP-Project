@@ -1,2 +1,2 @@
-# Final_Project
+# Project
 This is project
