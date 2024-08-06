@@ -1,11 +1,11 @@
-โปรเจคกลุ่ม วิชา  265472--Special Topics in Data Science 
+# โปรเจคกลุ่ม วิชา  265472--Special Topics in Data Science 
 
  
 
 กลุ่มที่ 1 :
 Git repo.: https://github.com/ffonchk/MidTerm-Project.git
 
-สมาชิกกลุ่ม 
+# สมาชิกกลุ่ม 
 
 หัวหน้าทีม : 	นางสาว ชลกานต์ เกตุเพ็ชร 		64311256 
 
@@ -17,10 +17,10 @@ Git repo.: https://github.com/ffonchk/MidTerm-Project.git
 
  
 
-ปัญหาที่สนใจ 
+# ปัญหาที่สนใจ 
 
-……ให้เขียนอธิบายเกี่ยวกับปัญหาที่สนใจ แหล่งข้อมูลของปัญหา และวิธีการเก็บข้อมูลเพื่อตอบปัญหา 
+# ให้เขียนอธิบายเกี่ยวกับปัญหาที่สนใจ แหล่งข้อมูลของปัญหา และวิธีการเก็บข้อมูลเพื่อตอบปัญหา 
 
-Project Workflow/Data Pipeline 
+# Project Workflow/Data Pipeline 
 
-อ้างอิง 
+# อ้างอิง 
