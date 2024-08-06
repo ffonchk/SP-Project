@@ -3,7 +3,7 @@
  
 
 กลุ่มที่ 1 :
-Git repo.: 
+Git repo.: https://github.com/ffonchk/MidTerm-Project.git
 
 สมาชิกกลุ่ม 
 
