@@ -2,8 +2,8 @@
 
  
 
-## กลุ่มที่ 1 :
-Git repo.: https://github.com/ffonchk/MidTerm-Project.git
+## กลุ่มที่ 1 : Power Ranger 4 หน่อ
+## Git repo.: https://github.com/ffonchk/MidTerm-Project.git
 
 ## สมาชิกกลุ่ม 
 
