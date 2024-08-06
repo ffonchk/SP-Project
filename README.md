@@ -1,2 +1,2 @@
 # Project
-This is project
+This is Midterm-Project
