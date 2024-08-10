@@ -70,7 +70,7 @@ df['product_name'] = df['product_name'].str.split(' เล่ม').str[0]
 duplicate_books = df[df['product_name'].duplicated(keep=False)]
 
 #ทำการลบชื่อหนังสือที่ซ้ำ และเลือกเก็บแค่ชื่อหนังสือที่ไม่ซ้ำ
-df = df.drop_duplicates(subset='product_name').reset_index(drop=True)
+df = df.drop_duplicates().reset_index(drop=True)
 print(df)
 ```
 ตัวอย่างข้อมูลที่ได้ก่อนจะนำมาแก้ปัญหา
