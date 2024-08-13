@@ -64,7 +64,7 @@ product_names = [product['product_name'] for product in all_products] #สร้
 df = pd.DataFrame(product_names, columns=['product_name'])
 
 #ลบโดยให้เหลือไว้แค่ประโยคก่อนหน้าคำว่าเล่ม  เพราะ เราต้องการแค่ชื่อของหนังสือ
-df['product_name'] = df['product_name'].str.split(' เล่ม').str[0]
+df = df['product_name'].str.split(' เล่ม').str[0]
 
 #เช็คว่ามีชื่อหนังสือซ้ำไหม
 duplicate_books = df[df['product_name'].duplicated(keep=False)]
