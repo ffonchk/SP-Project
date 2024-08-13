@@ -67,7 +67,7 @@ df = pd.DataFrame(product_names, columns=['product_name'])
 df_split = df['product_name'].str.split(' เล่ม').str[0]
 
 #เช็คว่ามีชื่อหนังสือซ้ำไหม
-duplicate_books = df.duplicated(keep=False)
+duplicate_books = df_split.duplicated(keep=False)
 
 #ทำการลบชื่อหนังสือที่ซ้ำ และเลือกเก็บแค่ชื่อหนังสือที่ไม่ซ้ำ
 df_drop = df_split.drop_duplicates().reset_index(drop=True)
