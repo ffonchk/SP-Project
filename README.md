@@ -173,7 +173,7 @@ with DAG(
     'catflow',
     default_args=default_args,
     description='DAG to fetch and categorize product names',
-    schedule=timedelta(hours=8),  # ใช้สตริงเพื่อความชัดเจน
+    schedule=timedelta(hours=8),  
     catchup=False,
     tags=['example'],  # ใช้แท็กเพื่อจัดกลุ่ม
 ) as dag:
