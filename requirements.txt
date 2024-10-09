@@ -1,0 +1,6 @@
+pandas
+requests
+mysql-connector-python
+python-dotenv
+datetime
+apache-airflow
