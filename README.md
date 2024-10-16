@@ -197,3 +197,4 @@ with DAG(
 
  ## อ้างอิง 
  Siam Inter Shop. Bongkoch. Siam Inter Shop, https://siamintershop.com/category/bongkoch/838. Accessed 06 Aug. 2024.
+ Punsiri Boonyakiat. "Apache Airflow Fundamentals: แชร์ข้อมูลระหว่าง Task (DAG) ด้วย XCom." Medium, https://punsiriboonyakiat.medium.com/apache-airflow-fundamentals-แชร์ข้อมูลระหว่าง-task-dag-ด้วย-xcom-f097da2a0486. Accessed 26 Sep. 2024.
